@@ -1,5 +1,4 @@
-use std::mem;
-use std::{array::TryFromSliceError, str::FromStr};
+use std::{mem, str::FromStr};
 
 #[repr(u8)]
 #[derive(Copy, Clone, PartialEq)]
@@ -77,6 +76,7 @@ impl FromStr for Round {
         }
     }
 }
+
 fn main() {
     const LINES: &'static str = include_str!("input.txt");
 
