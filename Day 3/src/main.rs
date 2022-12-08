@@ -2,14 +2,12 @@ struct Rucksack<'a>(&'a str, &'a str);
 
 impl<'a> Rucksack<'a> {
     fn common(&self) -> Option<u8> {
-        for x in self.0.as_bytes() {
-            for y in self.1.as_bytes() {
-                if x == y {
-                    return Some(*x);
-                }
-            }
-        }
-        None
+        // O(n^2)
+        self.0
+            .as_bytes()
+            .iter()
+            .copied()
+            .find(|b| self.1.as_bytes().contains(b))
     }
 }
 
@@ -41,5 +39,6 @@ fn main() {
         .lines()
         .map(|l| Rucksack::from(l).common().unwrap().priority())
         .sum();
+
     println!("Total: {total}");
 }
