@@ -1,0 +1,113 @@
+use std::{mem, str::FromStr};
+
+#[repr(u8)]
+#[derive(Copy, Clone, PartialEq)]
+enum Hand {
+    Rock = 1,
+    Paper,
+    Scissors,
+}
+
+impl Hand {
+    #[inline]
+    fn score(&self) -> u32 {
+        *self as u32
+    }
+}
+
+#[derive(Clone, Copy)]
+struct Round {
+    opponent: Hand,
+    our: Hand,
+}
+
+#[repr(u32)]
+#[derive(Clone, Copy)]
+enum Outcome {
+    Won = 6,
+    Draw = 3,
+    Loss = 0,
+}
+
+impl Outcome {
+    #[inline]
+    fn score(&self) -> u32 {
+        *self as u32
+    }
+}
+
+impl Round {
+    fn outcome(&self) -> Outcome {
+        if self.opponent == self.our {
+            return Outcome::Draw;
+        }
+
+        match (self.opponent, self.our) {
+            (Hand::Paper, Hand::Scissors)
+            | (Hand::Rock, Hand::Paper)
+            | (Hand::Scissors, Hand::Rock) => Outcome::Won,
+            _ => Outcome::Loss,
+        }
+    }
+
+    fn score(&self) -> u32 {
+        self.our.score() + self.outcome().score()
+    }
+}
+
+impl FromStr for Round {
+    type Err = ();
+
+    fn from_str(s: &str) -> Result<Self, Self::Err> {
+        let data: &[u8; 3] = s.as_bytes().try_into().ok().ok_or(())?;
+
+        let x = data[0].wrapping_sub(0x40);
+        let y = data[2].wrapping_sub(0x57);
+
+        if !(x <= 3 && y <= 3) {
+            return Err(());
+        }
+
+        unsafe {
+            Ok(Self {
+                opponent: mem::transmute::<u8, Hand>(x),
+                our: mem::transmute::<u8, Hand>(y),
+            })
+        }
+    }
+}
+fn main() {
+    const LINES: &str = include_str!("input.txt");
+
+    let total: u32 = LINES
+        .lines()
+        .map(|line| {
+            let round: Round = line.parse().unwrap();
+            let (hand, outcome) = match round.our {
+                Hand::Rock => {
+                    let hand = match round.opponent {
+                        Hand::Paper => Hand::Rock,
+                        Hand::Rock => Hand::Scissors,
+                        Hand::Scissors => Hand::Paper,
+                    };
+
+                    (hand, Outcome::Loss)
+                }
+                Hand::Paper => (round.opponent, Outcome::Draw),
+                Hand::Scissors => {
+                    let hand = match round.opponent {
+                        Hand::Paper => Hand::Scissors,
+                        Hand::Rock => Hand::Paper,
+                        Hand::Scissors => Hand::Rock,
+                    };
+
+                    (hand, Outcome::Won)
+                }
+            };
+
+            hand.score() + outcome.score()
+        })
+        .sum();
+
+    println!("Total score: {total}");
+}
