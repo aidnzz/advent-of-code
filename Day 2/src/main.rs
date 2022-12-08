@@ -22,7 +22,7 @@ struct Round {
 }
 
 #[repr(u32)]
-#[derive(Debug, Clone, Copy)]
+#[derive(Clone, Copy)]
 enum Outcome {
     Won = 6,
     Draw = 3,
@@ -61,8 +61,8 @@ impl FromStr for Round {
     fn from_str(s: &str) -> Result<Self, Self::Err> {
         let data: &[u8; 3] = s.as_bytes().try_into().ok().ok_or(())?;
 
-        let x = data[0] & 0x3;
-        let y = (data[2] & 0xF) - 7;
+        let x = data[0].wrapping_sub(0x40);
+        let y = data[2].wrapping_sub(0x57);
 
         if !(x <= 3 && y <= 3) {
             return Err(());
@@ -70,13 +70,12 @@ impl FromStr for Round {
 
         unsafe {
             Ok(Self {
-                opponent: std::mem::transmute::<u8, Hand>(x),
-                our: std::mem::transmute::<u8, Hand>(y),
+                opponent: mem::transmute::<u8, Hand>(x),
+                our: mem::transmute::<u8, Hand>(y),
             })
         }
     }
 }
-
 fn main() {
     const LINES: &'static str = include_str!("input.txt");
 
