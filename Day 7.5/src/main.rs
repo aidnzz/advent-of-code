@@ -39,27 +39,29 @@ fn build_directory<'a>(
 }
 
 fn solution(root: &Directory, total: usize, required: usize) -> Option<usize> {
-    fn solution_recursive(root: &Directory, mininum: usize, closest_size: &mut Option<usize>) -> Option<usize> {
-        match closest_size {
-            Some(size) => {
-                if root.size >= mininum && root.size < *size {
-                    *closest_size = Some(root.size);
-                }
-            },
-            _ => {}
+    fn solution_recursive(root: &Directory, mininum: usize, closest_size: &mut Option<usize>) {
+        if let Some(size) = closest_size {
+            if root.size >= mininum && root.size < *size {
+                *closest_size = Some(root.size);
+            }
+        } else {
+            if root.size >= mininum {
+                *closest_size = Some(root.size);
+            }
         }
 
         for folder in root.directories.iter() {
             solution_recursive(folder, mininum, closest_size);
         }
-
-        return *closest_size
     }
     
-    let mut closest_size: Option<usize> = Some(root.size);
-    let mininum = required - (total - root.size);
+    let mut closest_size: Option<usize> = None;
 
-    solution_recursive(root, mininum, &mut closest_size)
+    let used = root.size;
+    let mininum = required - (total - used);
+
+    solution_recursive(root, mininum, &mut closest_size);
+    closest_size
 }
 
 fn main() {
