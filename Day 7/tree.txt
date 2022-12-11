@@ -1,0 +1,2625 @@
+Directory {
+    path: "",
+    files: [
+        (
+            "rrqzqwl.frp",
+            59022,
+        ),
+    ],
+    size: 47052440,
+    directories: [
+        Directory {
+            path: "zzp",
+            files: [
+                (
+                    "vwrmp.rzc",
+                    197095,
+                ),
+            ],
+            size: 197095,
+            directories: [],
+        },
+        Directory {
+            path: "qqpgw",
+            files: [
+                (
+                    "gsmdbsp.sjz",
+                    21091,
+                ),
+            ],
+            size: 21091,
+            directories: [],
+        },
+        Directory {
+            path: "bfbjzfd",
+            files: [
+                (
+                    "bmzjjgzc.dcr",
+                    125000,
+                ),
+                (
+                    "hgm",
+                    165351,
+                ),
+            ],
+            size: 2085993,
+            directories: [
+                Directory {
+                    path: "bfbjzfd\\brmgzjp",
+                    files: [
+                        (
+                            "zzp.wrm",
+                            298676,
+                        ),
+                    ],
+                    size: 298676,
+                    directories: [],
+                },
+                Directory {
+                    path: "bfbjzfd\\rhrqttg",
+                    files: [],
+                    size: 1089907,
+                    directories: [
+                        Directory {
+                            path: "bfbjzfd\\rhrqttg\\hpcrbfq",
+                            files: [],
+                            size: 791958,
+                            directories: [
+                                Directory {
+                                    path: "bfbjzfd\\rhrqttg\\hpcrbfq\\ghmfgn",
+                                    files: [],
+                                    size: 508940,
+                                    directories: [
+                                        Directory {
+                                            path: "bfbjzfd\\rhrqttg\\hpcrbfq\\ghmfgn\\rrfg",
+                                            files: [
+                                                (
+                                                    "svzjf",
+                                                    240584,
+                                                ),
+                                            ],
+                                            size: 240584,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "bfbjzfd\\rhrqttg\\hpcrbfq\\ghmfgn\\tggwct",
+                                            files: [],
+                                            size: 268356,
+                                            directories: [
+                                                Directory {
+                                                    path: "bfbjzfd\\rhrqttg\\hpcrbfq\\ghmfgn\\tggwct\\lqmrbncv",
+                                                    files: [
+                                                        (
+                                                            "zlw.tsd",
+                                                            268356,
+                                                        ),
+                                                    ],
+                                                    size: 268356,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "bfbjzfd\\rhrqttg\\hpcrbfq\\wgvqhw",
+                                    files: [
+                                        (
+                                            "zphv.mwp",
+                                            144558,
+                                        ),
+                                    ],
+                                    size: 144558,
+                                    directories: [],
+                                },
+                                Directory {
+                                    path: "bfbjzfd\\rhrqttg\\hpcrbfq\\pnhcpprn",
+                                    files: [
+                                        (
+                                            "sjth.rhr",
+                                            138460,
+                                        ),
+                                    ],
+                                    size: 138460,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "bfbjzfd\\rhrqttg\\hmz",
+                            files: [
+                                (
+                                    "lqcg",
+                                    297949,
+                                ),
+                            ],
+                            size: 297949,
+                            directories: [],
+                        },
+                    ],
+                },
+                Directory {
+                    path: "bfbjzfd\\zfdc",
+                    files: [
+                        (
+                            "fgj.fhz",
+                            173854,
+                        ),
+                        (
+                            "vwrmp.rzc",
+                            233205,
+                        ),
+                    ],
+                    size: 407059,
+                    directories: [],
+                },
+            ],
+        },
+        Directory {
+            path: "sscj",
+            files: [
+                (
+                    "prgdqt",
+                    294941,
+                ),
+                (
+                    "qrhrv.vjd",
+                    139104,
+                ),
+                (
+                    "rrqzqwl.frp",
+                    228958,
+                ),
+                (
+                    "zphv.mwp",
+                    11069,
+                ),
+                (
+                    "zzp",
+                    286845,
+                ),
+            ],
+            size: 3283315,
+            directories: [
+                Directory {
+                    path: "sscj\\whhbsrs",
+                    files: [
+                        (
+                            "lvr",
+                            75836,
+                        ),
+                        (
+                            "zphv.mwp",
+                            263963,
+                        ),
+                    ],
+                    size: 1045114,
+                    directories: [
+                        Directory {
+                            path: "sscj\\whhbsrs\\lqmrbncv",
+                            files: [
+                                (
+                                    "jslww",
+                                    272847,
+                                ),
+                                (
+                                    "pcqhzfh.gwv",
+                                    128309,
+                                ),
+                                (
+                                    "vwrmp.rzc",
+                                    58964,
+                                ),
+                            ],
+                            size: 460120,
+                            directories: [],
+                        },
+                        Directory {
+                            path: "sscj\\whhbsrs\\zjtpvt",
+                            files: [
+                                (
+                                    "zphv.mwp",
+                                    245195,
+                                ),
+                            ],
+                            size: 245195,
+                            directories: [],
+                        },
+                    ],
+                },
+                Directory {
+                    path: "sscj\\hmz",
+                    files: [
+                        (
+                            "fvjp.qzq",
+                            110085,
+                        ),
+                        (
+                            "pnhcpprn.zlz",
+                            104041,
+                        ),
+                        (
+                            "tjvhzdrj",
+                            236776,
+                        ),
+                        (
+                            "vwrmp.rzc",
+                            241516,
+                        ),
+                        (
+                            "zphv.mwp",
+                            106304,
+                        ),
+                    ],
+                    size: 1277284,
+                    directories: [
+                        Directory {
+                            path: "sscj\\hmz\\gzwfqd",
+                            files: [
+                                (
+                                    "bcjn",
+                                    142395,
+                                ),
+                                (
+                                    "gpgq",
+                                    139565,
+                                ),
+                            ],
+                            size: 281960,
+                            directories: [],
+                        },
+                        Directory {
+                            path: "sscj\\hmz\\zmvhp",
+                            files: [
+                                (
+                                    "glbcr.cnr",
+                                    12354,
+                                ),
+                                (
+                                    "hmz.vsw",
+                                    115791,
+                                ),
+                                (
+                                    "pnhcpprn.nnm",
+                                    53725,
+                                ),
+                            ],
+                            size: 196602,
+                            directories: [
+                                Directory {
+                                    path: "sscj\\hmz\\zmvhp\\stdlstb",
+                                    files: [
+                                        (
+                                            "jltstzz",
+                                            14732,
+                                        ),
+                                    ],
+                                    size: 14732,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                    ],
+                },
+            ],
+        },
+        Directory {
+            path: "mbc",
+            files: [
+                (
+                    "jfl",
+                    93070,
+                ),
+                (
+                    "jpr.wlb",
+                    95270,
+                ),
+                (
+                    "rmrtw",
+                    30324,
+                ),
+                (
+                    "zphv.mwp",
+                    243981,
+                ),
+            ],
+            size: 462645,
+            directories: [],
+        },
+        Directory {
+            path: "vpfdwq",
+            files: [
+                (
+                    "gsmdbsp.sjz",
+                    166531,
+                ),
+                (
+                    "nntncwh",
+                    95329,
+                ),
+                (
+                    "pcqhzfh.gwv",
+                    27020,
+                ),
+                (
+                    "ttpdwl.dgm",
+                    279032,
+                ),
+                (
+                    "vwrmp.rzc",
+                    2499,
+                ),
+            ],
+            size: 17348139,
+            directories: [
+                Directory {
+                    path: "vpfdwq\\pnhcpprn",
+                    files: [
+                        (
+                            "lqmrbncv.fgl",
+                            55329,
+                        ),
+                        (
+                            "zlw",
+                            106653,
+                        ),
+                    ],
+                    size: 4306592,
+                    directories: [
+                        Directory {
+                            path: "vpfdwq\\pnhcpprn\\hhhbwl",
+                            files: [
+                                (
+                                    "hmz",
+                                    232525,
+                                ),
+                                (
+                                    "pnhcpprn.mdm",
+                                    2087,
+                                ),
+                                (
+                                    "zzp",
+                                    246118,
+                                ),
+                            ],
+                            size: 534406,
+                            directories: [
+                                Directory {
+                                    path: "vpfdwq\\pnhcpprn\\hhhbwl\\bswnjsc",
+                                    files: [
+                                        (
+                                            "pcqhzfh.gwv",
+                                            53676,
+                                        ),
+                                    ],
+                                    size: 53676,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "vpfdwq\\pnhcpprn\\mtbcvdwq",
+                            files: [
+                                (
+                                    "gsmdbsp.sjz",
+                                    234145,
+                                ),
+                            ],
+                            size: 504224,
+                            directories: [
+                                Directory {
+                                    path: "vpfdwq\\pnhcpprn\\mtbcvdwq\\zqhm",
+                                    files: [
+                                        (
+                                            "dnqdjh.fjd",
+                                            270079,
+                                        ),
+                                    ],
+                                    size: 270079,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "vpfdwq\\pnhcpprn\\hmz",
+                            files: [
+                                (
+                                    "pnhcpprn.brj",
+                                    271083,
+                                ),
+                                (
+                                    "zphv.mwp",
+                                    105660,
+                                ),
+                            ],
+                            size: 376743,
+                            directories: [],
+                        },
+                        Directory {
+                            path: "vpfdwq\\pnhcpprn\\hwj",
+                            files: [
+                                (
+                                    "lqmrbncv",
+                                    222799,
+                                ),
+                            ],
+                            size: 2729237,
+                            directories: [
+                                Directory {
+                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq",
+                                    files: [
+                                        (
+                                            "crjbtfn.sqp",
+                                            126253,
+                                        ),
+                                        (
+                                            "pnhcpprn.rwg",
+                                            65577,
+                                        ),
+                                        (
+                                            "vjvq",
+                                            3480,
+                                        ),
+                                    ],
+                                    size: 2453420,
+                                    directories: [
+                                        Directory {
+                                            path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\vfvrjm",
+                                            files: [
+                                                (
+                                                    "rvwffc",
+                                                    221983,
+                                                ),
+                                                (
+                                                    "zlw.dhn",
+                                                    230779,
+                                                ),
+                                                (
+                                                    "zpfmr",
+                                                    232043,
+                                                ),
+                                            ],
+                                            size: 722869,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\vfvrjm\\hmz",
+                                                    files: [
+                                                        (
+                                                            "rrq.sdn",
+                                                            38064,
+                                                        ),
+                                                    ],
+                                                    size: 38064,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\sqvqf",
+                                            files: [],
+                                            size: 447430,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\sqvqf\\hmz",
+                                                    files: [
+                                                        (
+                                                            "wcgnq.ggd",
+                                                            104746,
+                                                        ),
+                                                        (
+                                                            "zphv.mwp",
+                                                            209360,
+                                                        ),
+                                                    ],
+                                                    size: 314106,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\sqvqf\\dwpfrjcm",
+                                                    files: [
+                                                        (
+                                                            "vwrmp.rzc",
+                                                            133324,
+                                                        ),
+                                                    ],
+                                                    size: 133324,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\zlm",
+                                            files: [],
+                                            size: 583426,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\zlm\\jgzwp",
+                                                    files: [
+                                                        (
+                                                            "lqmrbncv",
+                                                            287272,
+                                                        ),
+                                                        (
+                                                            "qvcmwpg",
+                                                            30088,
+                                                        ),
+                                                        (
+                                                            "znf.jbq",
+                                                            266066,
+                                                        ),
+                                                    ],
+                                                    size: 583426,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\rtvfnr",
+                                            files: [],
+                                            size: 504385,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\rtvfnr\\fdqdt",
+                                                    files: [
+                                                        (
+                                                            "zzp",
+                                                            265656,
+                                                        ),
+                                                    ],
+                                                    size: 265656,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\pnhcpprn\\hwj\\phrvq\\rtvfnr\\zzp",
+                                                    files: [
+                                                        (
+                                                            "zphv.mwp",
+                                                            238729,
+                                                        ),
+                                                    ],
+                                                    size: 238729,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\pnhcpprn\\hwj\\hczspwn",
+                                    files: [
+                                        (
+                                            "lqmrbncv.mwm",
+                                            53018,
+                                        ),
+                                    ],
+                                    size: 53018,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                    ],
+                },
+                Directory {
+                    path: "vpfdwq\\zzp",
+                    files: [
+                        (
+                            "pnhcpprn.vzq",
+                            284975,
+                        ),
+                        (
+                            "rcm.ntz",
+                            150735,
+                        ),
+                    ],
+                    size: 11958790,
+                    directories: [
+                        Directory {
+                            path: "vpfdwq\\zzp\\zbdpt",
+                            files: [
+                                (
+                                    "gsmdbsp.sjz",
+                                    271137,
+                                ),
+                                (
+                                    "mfpvr.vbg",
+                                    115632,
+                                ),
+                                (
+                                    "plgqqf",
+                                    157663,
+                                ),
+                            ],
+                            size: 10519770,
+                            directories: [
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\nmg",
+                                    files: [],
+                                    size: 214686,
+                                    directories: [
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\nmg\\zlw",
+                                            files: [
+                                                (
+                                                    "grhstbr",
+                                                    214686,
+                                                ),
+                                            ],
+                                            size: 214686,
+                                            directories: [],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\mqg",
+                                    files: [
+                                        (
+                                            "gsmdbsp.sjz",
+                                            213353,
+                                        ),
+                                        (
+                                            "lqmrbncv.cqd",
+                                            240884,
+                                        ),
+                                        (
+                                            "lqmrbncv.rrw",
+                                            249290,
+                                        ),
+                                        (
+                                            "rrqzqwl.frp",
+                                            229731,
+                                        ),
+                                    ],
+                                    size: 933258,
+                                    directories: [],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\lqmrbncv",
+                                    files: [
+                                        (
+                                            "lqmrbncv.glf",
+                                            231082,
+                                        ),
+                                        (
+                                            "pcqhzfh.gwv",
+                                            220876,
+                                        ),
+                                        (
+                                            "qvrcq.rwt",
+                                            122980,
+                                        ),
+                                        (
+                                            "wcll",
+                                            197294,
+                                        ),
+                                    ],
+                                    size: 1225023,
+                                    directories: [
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\lqmrbncv\\lqmrbncv",
+                                            files: [
+                                                (
+                                                    "rrqzqwl.frp",
+                                                    203618,
+                                                ),
+                                                (
+                                                    "vwrmp.rzc",
+                                                    66116,
+                                                ),
+                                                (
+                                                    "zlw.fbt",
+                                                    109306,
+                                                ),
+                                                (
+                                                    "zlw.qvz",
+                                                    73751,
+                                                ),
+                                            ],
+                                            size: 452791,
+                                            directories: [],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\zzp",
+                                    files: [
+                                        (
+                                            "lqmrbncv.frd",
+                                            231301,
+                                        ),
+                                    ],
+                                    size: 231301,
+                                    directories: [],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn",
+                                    files: [
+                                        (
+                                            "hmz.wlh",
+                                            119203,
+                                        ),
+                                        (
+                                            "pcqhzfh.gwv",
+                                            151275,
+                                        ),
+                                        (
+                                            "zzp.tpm",
+                                            275792,
+                                        ),
+                                    ],
+                                    size: 7268994,
+                                    directories: [
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\zlw",
+                                            files: [
+                                                (
+                                                    "hfvmfrtr.gqt",
+                                                    222177,
+                                                ),
+                                                (
+                                                    "vlzvst.zps",
+                                                    207956,
+                                                ),
+                                                (
+                                                    "whnvbpm.jdr",
+                                                    111131,
+                                                ),
+                                            ],
+                                            size: 541264,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tmr",
+                                            files: [
+                                                (
+                                                    "lqmrbncv.svw",
+                                                    293208,
+                                                ),
+                                            ],
+                                            size: 293208,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\htzzs",
+                                            files: [
+                                                (
+                                                    "hmz.tfw",
+                                                    249670,
+                                                ),
+                                            ],
+                                            size: 249670,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\wqzq",
+                                            files: [
+                                                (
+                                                    "lqmrbncv.dng",
+                                                    119618,
+                                                ),
+                                                (
+                                                    "pnhcpprn",
+                                                    263259,
+                                                ),
+                                                (
+                                                    "zphv.mwp",
+                                                    195318,
+                                                ),
+                                                (
+                                                    "zzp.jpm",
+                                                    34727,
+                                                ),
+                                            ],
+                                            size: 1258704,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\wqzq\\wdlpr",
+                                                    files: [
+                                                        (
+                                                            "dznclb.frm",
+                                                            65151,
+                                                        ),
+                                                        (
+                                                            "gsmdbsp.sjz",
+                                                            267043,
+                                                        ),
+                                                        (
+                                                            "lqmrbncv.vnd",
+                                                            1114,
+                                                        ),
+                                                    ],
+                                                    size: 333308,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\wqzq\\fjjrcs",
+                                                    files: [],
+                                                    size: 131011,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\wqzq\\fjjrcs\\mhg",
+                                                            files: [
+                                                                (
+                                                                    "nns.nnr",
+                                                                    27680,
+                                                                ),
+                                                                (
+                                                                    "zhwpw",
+                                                                    29177,
+                                                                ),
+                                                                (
+                                                                    "zphv.mwp",
+                                                                    74154,
+                                                                ),
+                                                            ],
+                                                            size: 131011,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\wqzq\\gtrsmwmm",
+                                                    files: [
+                                                        (
+                                                            "pnhcpprn.jnf",
+                                                            181463,
+                                                        ),
+                                                    ],
+                                                    size: 181463,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz",
+                                            files: [
+                                                (
+                                                    "gsmdbsp.sjz",
+                                                    106737,
+                                                ),
+                                            ],
+                                            size: 1477286,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp",
+                                                    files: [
+                                                        (
+                                                            "gsmdbsp.sjz",
+                                                            48813,
+                                                        ),
+                                                    ],
+                                                    size: 1370549,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj",
+                                                            files: [],
+                                                            size: 1321736,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\ffjtv",
+                                                                    files: [
+                                                                        (
+                                                                            "zlw.rts",
+                                                                            4111,
+                                                                        ),
+                                                                    ],
+                                                                    size: 4111,
+                                                                    directories: [],
+                                                                },
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\hmz",
+                                                                    files: [],
+                                                                    size: 836802,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\hmz\\sjt",
+                                                                            files: [
+                                                                                (
+                                                                                    "pvfbz",
+                                                                                    269004,
+                                                                                ),
+                                                                                (
+                                                                                    "rrqzqwl.frp",
+                                                                                    297312,
+                                                                                ),
+                                                                                (
+                                                                                    "zphv.mwp",
+                                                                                    270486,
+                                                                                ),
+                                                                            ],
+                                                                            size: 836802,
+                                                                            directories: [],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\qstdzsh",
+                                                                    files: [
+                                                                        (
+                                                                            "qdstwvw",
+                                                                            73551,
+                                                                        ),
+                                                                        (
+                                                                            "sgnbngld.cfj",
+                                                                            77703,
+                                                                        ),
+                                                                        (
+                                                                            "vwrmp.rzc",
+                                                                            16097,
+                                                                        ),
+                                                                    ],
+                                                                    size: 480823,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\qstdzsh\\nzljfz",
+                                                                            files: [
+                                                                                (
+                                                                                    "tfwwj.wsf",
+                                                                                    158622,
+                                                                                ),
+                                                                            ],
+                                                                            size: 158622,
+                                                                            directories: [],
+                                                                        },
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\tpdrmpz\\zzp\\wrsj\\qstdzsh\\glb",
+                                                                            files: [
+                                                                                (
+                                                                                    "pcqhzfh.gwv",
+                                                                                    154850,
+                                                                                ),
+                                                                            ],
+                                                                            size: 154850,
+                                                                            directories: [],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                            ],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb",
+                                            files: [
+                                                (
+                                                    "zfbqs.lfp",
+                                                    39430,
+                                                ),
+                                            ],
+                                            size: 2902592,
+                                            directories: [
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\cfbnc",
+                                                    files: [
+                                                        (
+                                                            "hmz.gzt",
+                                                            91862,
+                                                        ),
+                                                        (
+                                                            "rrqzqwl.frp",
+                                                            36788,
+                                                        ),
+                                                    ],
+                                                    size: 128650,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\jtcc",
+                                                    files: [
+                                                        (
+                                                            "ldpvgl.wsc",
+                                                            4288,
+                                                        ),
+                                                        (
+                                                            "lqmrbncv.dnh",
+                                                            199095,
+                                                        ),
+                                                        (
+                                                            "lqmrbncv.rsp",
+                                                            18988,
+                                                        ),
+                                                    ],
+                                                    size: 572602,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\jtcc\\tdhsnr",
+                                                            files: [],
+                                                            size: 350231,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\jtcc\\tdhsnr\\mtwrwgd",
+                                                                    files: [],
+                                                                    size: 126059,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\jtcc\\tdhsnr\\mtwrwgd\\vpb",
+                                                                            files: [
+                                                                                (
+                                                                                    "bnnglntn.czw",
+                                                                                    96743,
+                                                                                ),
+                                                                                (
+                                                                                    "zlw",
+                                                                                    29316,
+                                                                                ),
+                                                                            ],
+                                                                            size: 126059,
+                                                                            directories: [],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\jtcc\\tdhsnr\\ndnmj",
+                                                                    files: [
+                                                                        (
+                                                                            "hmz.dbh",
+                                                                            224172,
+                                                                        ),
+                                                                    ],
+                                                                    size: 224172,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv",
+                                                    files: [
+                                                        (
+                                                            "gfv",
+                                                            92219,
+                                                        ),
+                                                        (
+                                                            "rrqzqwl.frp",
+                                                            83949,
+                                                        ),
+                                                        (
+                                                            "vwrmp.rzc",
+                                                            100668,
+                                                        ),
+                                                        (
+                                                            "zphv.mwp",
+                                                            17966,
+                                                        ),
+                                                    ],
+                                                    size: 2062585,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv",
+                                                            files: [
+                                                                (
+                                                                    "gsmdbsp.sjz",
+                                                                    277257,
+                                                                ),
+                                                            ],
+                                                            size: 710852,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv\\smhc",
+                                                                    files: [
+                                                                        (
+                                                                            "pnhcpprn",
+                                                                            6007,
+                                                                        ),
+                                                                    ],
+                                                                    size: 6007,
+                                                                    directories: [],
+                                                                },
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv\\fjjts",
+                                                                    files: [
+                                                                        (
+                                                                            "bhdpb",
+                                                                            219095,
+                                                                        ),
+                                                                    ],
+                                                                    size: 427588,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv\\fjjts\\vtcfh",
+                                                                            files: [
+                                                                                (
+                                                                                    "cczlmj.dsb",
+                                                                                    57426,
+                                                                                ),
+                                                                            ],
+                                                                            size: 57426,
+                                                                            directories: [],
+                                                                        },
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv\\fjjts\\nlgqmc",
+                                                                            files: [],
+                                                                            size: 151067,
+                                                                            directories: [
+                                                                                Directory {
+                                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\lqmrbncv\\fjjts\\nlgqmc\\hzzrtpwm",
+                                                                                    files: [
+                                                                                        (
+                                                                                            "hfvdw",
+                                                                                            151067,
+                                                                                        ),
+                                                                                    ],
+                                                                                    size: 151067,
+                                                                                    directories: [],
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                            ],
+                                                        },
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\hqqqlfpt",
+                                                            files: [],
+                                                            size: 592873,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\hqqqlfpt\\hmz",
+                                                                    files: [
+                                                                        (
+                                                                            "sbrvvpvf",
+                                                                            164308,
+                                                                        ),
+                                                                    ],
+                                                                    size: 592873,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\hqqqlfpt\\hmz\\pmpndws",
+                                                                            files: [],
+                                                                            size: 267730,
+                                                                            directories: [
+                                                                                Directory {
+                                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\hqqqlfpt\\hmz\\pmpndws\\zlw",
+                                                                                    files: [
+                                                                                        (
+                                                                                            "dwmbrd",
+                                                                                            267730,
+                                                                                        ),
+                                                                                    ],
+                                                                                    size: 267730,
+                                                                                    directories: [],
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                        Directory {
+                                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\hqqqlfpt\\hmz\\hmz",
+                                                                            files: [
+                                                                                (
+                                                                                    "pnhcpprn",
+                                                                                    20375,
+                                                                                ),
+                                                                                (
+                                                                                    "twc.tmq",
+                                                                                    140460,
+                                                                                ),
+                                                                            ],
+                                                                            size: 160835,
+                                                                            directories: [],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                            ],
+                                                        },
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\mhzbbgzq",
+                                                            files: [
+                                                                (
+                                                                    "zzp.qrv",
+                                                                    274198,
+                                                                ),
+                                                            ],
+                                                            size: 464058,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\mmjv\\mhzbbgzq\\zlw",
+                                                                    files: [
+                                                                        (
+                                                                            "cshrcj",
+                                                                            189860,
+                                                                        ),
+                                                                    ],
+                                                                    size: 189860,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\gsnsdc",
+                                                    files: [],
+                                                    size: 99325,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "vpfdwq\\zzp\\zbdpt\\jjmfpmnn\\djtsbb\\gsnsdc\\pnhcpprn",
+                                                            files: [
+                                                                (
+                                                                    "bfs.hhj",
+                                                                    99325,
+                                                                ),
+                                                            ],
+                                                            size: 99325,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "vpfdwq\\zzp\\zbdpt\\tgqrcfmt",
+                                    files: [
+                                        (
+                                            "zlw.jzl",
+                                            102076,
+                                        ),
+                                    ],
+                                    size: 102076,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "vpfdwq\\zzp\\wlqqd",
+                            files: [
+                                (
+                                    "jms",
+                                    163718,
+                                ),
+                                (
+                                    "ltfsb.bbc",
+                                    289870,
+                                ),
+                                (
+                                    "zvf",
+                                    261093,
+                                ),
+                                (
+                                    "zzp",
+                                    288629,
+                                ),
+                            ],
+                            size: 1003310,
+                            directories: [],
+                        },
+                    ],
+                },
+                Directory {
+                    path: "vpfdwq\\lqmrbncv",
+                    files: [],
+                    size: 512346,
+                    directories: [
+                        Directory {
+                            path: "vpfdwq\\lqmrbncv\\zzp",
+                            files: [
+                                (
+                                    "pnhcpprn.ljp",
+                                    290776,
+                                ),
+                            ],
+                            size: 512346,
+                            directories: [
+                                Directory {
+                                    path: "vpfdwq\\lqmrbncv\\zzp\\lqm",
+                                    files: [
+                                        (
+                                            "jhb",
+                                            221570,
+                                        ),
+                                    ],
+                                    size: 221570,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                    ],
+                },
+            ],
+        },
+        Directory {
+            path: "psqmv",
+            files: [
+                (
+                    "ctb.bmm",
+                    169953,
+                ),
+                (
+                    "gsmdbsp.sjz",
+                    151614,
+                ),
+                (
+                    "hmz.qqt",
+                    245528,
+                ),
+                (
+                    "nfbbqvvs.fdn",
+                    46723,
+                ),
+            ],
+            size: 23595140,
+            directories: [
+                Directory {
+                    path: "psqmv\\jdvsccc",
+                    files: [
+                        (
+                            "lqmrbncv",
+                            240937,
+                        ),
+                        (
+                            "qpjtdqfg.rwm",
+                            279509,
+                        ),
+                        (
+                            "vwrmp.rzc",
+                            265236,
+                        ),
+                        (
+                            "zzp.smp",
+                            148420,
+                        ),
+                        (
+                            "zzp.zhh",
+                            281537,
+                        ),
+                    ],
+                    size: 1593359,
+                    directories: [
+                        Directory {
+                            path: "psqmv\\jdvsccc\\zwjqnf",
+                            files: [
+                                (
+                                    "gsmdbsp.sjz",
+                                    244132,
+                                ),
+                            ],
+                            size: 253737,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\jdvsccc\\zwjqnf\\stbgzg",
+                                    files: [
+                                        (
+                                            "cbzw",
+                                            9605,
+                                        ),
+                                    ],
+                                    size: 9605,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "psqmv\\jdvsccc\\pnhcpprn",
+                            files: [
+                                (
+                                    "zphv.mwp",
+                                    123983,
+                                ),
+                            ],
+                            size: 123983,
+                            directories: [],
+                        },
+                    ],
+                },
+                Directory {
+                    path: "psqmv\\cjzpb",
+                    files: [
+                        (
+                            "lqmrbncv.jpf",
+                            156179,
+                        ),
+                    ],
+                    size: 156179,
+                    directories: [],
+                },
+                Directory {
+                    path: "psqmv\\tbcz",
+                    files: [],
+                    size: 21231784,
+                    directories: [
+                        Directory {
+                            path: "psqmv\\tbcz\\zzp",
+                            files: [
+                                (
+                                    "lqmrbncv",
+                                    109548,
+                                ),
+                                (
+                                    "smmhjggp.hjg",
+                                    126920,
+                                ),
+                                (
+                                    "srbpw",
+                                    262364,
+                                ),
+                                (
+                                    "wqqffn.fhz",
+                                    197385,
+                                ),
+                            ],
+                            size: 1902812,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\tbcz\\zzp\\pnhcpprn",
+                                    files: [
+                                        (
+                                            "vwrmp.rzc",
+                                            158565,
+                                        ),
+                                    ],
+                                    size: 628803,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zzp\\pnhcpprn\\nsjtn",
+                                            files: [
+                                                (
+                                                    "vvbp",
+                                                    78943,
+                                                ),
+                                            ],
+                                            size: 78943,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zzp\\pnhcpprn\\zlw",
+                                            files: [],
+                                            size: 391295,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zzp\\pnhcpprn\\zlw\\mgpvzqlf",
+                                                    files: [
+                                                        (
+                                                            "zphv.mwp",
+                                                            248943,
+                                                        ),
+                                                    ],
+                                                    size: 248943,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zzp\\pnhcpprn\\zlw\\bzm",
+                                                    files: [
+                                                        (
+                                                            "qqbvshtw.mnp",
+                                                            142352,
+                                                        ),
+                                                    ],
+                                                    size: 142352,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zzp\\cgptm",
+                                    files: [],
+                                    size: 489990,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zzp\\cgptm\\lqmrbncv",
+                                            files: [],
+                                            size: 489990,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zzp\\cgptm\\lqmrbncv\\nzrcvwzf",
+                                                    files: [
+                                                        (
+                                                            "tjwt",
+                                                            69278,
+                                                        ),
+                                                        (
+                                                            "tzhq.zzq",
+                                                            150708,
+                                                        ),
+                                                    ],
+                                                    size: 219986,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zzp\\cgptm\\lqmrbncv\\nspmbfq",
+                                                    files: [
+                                                        (
+                                                            "szhbblh.frw",
+                                                            270004,
+                                                        ),
+                                                    ],
+                                                    size: 270004,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zzp\\brwc",
+                                    files: [
+                                        (
+                                            "bffrfpqc",
+                                            87802,
+                                        ),
+                                    ],
+                                    size: 87802,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\zssntdj",
+                            files: [
+                                (
+                                    "hwtnd.cqr",
+                                    84503,
+                                ),
+                            ],
+                            size: 2216718,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\tbcz\\zssntdj\\nhgp",
+                                    files: [
+                                        (
+                                            "hmz.ncq",
+                                            199554,
+                                        ),
+                                    ],
+                                    size: 199554,
+                                    directories: [],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zssntdj\\mjj",
+                                    files: [],
+                                    size: 291365,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\mjj\\nnqhcjd",
+                                            files: [
+                                                (
+                                                    "vwrmp.rzc",
+                                                    291365,
+                                                ),
+                                            ],
+                                            size: 291365,
+                                            directories: [],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zssntdj\\zlw",
+                                    files: [
+                                        (
+                                            "pcqhzfh.gwv",
+                                            187051,
+                                        ),
+                                    ],
+                                    size: 1144382,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\zlw\\lqmrbncv",
+                                            files: [
+                                                (
+                                                    "bzlbgvd.rlq",
+                                                    17821,
+                                                ),
+                                                (
+                                                    "jbbrbp.wbg",
+                                                    40881,
+                                                ),
+                                                (
+                                                    "rrqzqwl.frp",
+                                                    66245,
+                                                ),
+                                            ],
+                                            size: 124947,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\zlw\\ljplj",
+                                            files: [],
+                                            size: 593071,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zssntdj\\zlw\\ljplj\\czmjzd",
+                                                    files: [
+                                                        (
+                                                            "vwrmp.rzc",
+                                                            195882,
+                                                        ),
+                                                        (
+                                                            "wst.mfl",
+                                                            289013,
+                                                        ),
+                                                    ],
+                                                    size: 484895,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zssntdj\\zlw\\ljplj\\pnhcpprn",
+                                                    files: [
+                                                        (
+                                                            "fmtbrzwj",
+                                                            108176,
+                                                        ),
+                                                    ],
+                                                    size: 108176,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\zlw\\cnssf",
+                                            files: [
+                                                (
+                                                    "jbpvr.wpn",
+                                                    191226,
+                                                ),
+                                            ],
+                                            size: 191226,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\zlw\\hdqb",
+                                            files: [],
+                                            size: 48087,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\zssntdj\\zlw\\hdqb\\rswtmqp",
+                                                    files: [
+                                                        (
+                                                            "zzp",
+                                                            48087,
+                                                        ),
+                                                    ],
+                                                    size: 48087,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zssntdj\\pnhcpprn",
+                                    files: [],
+                                    size: 145384,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\pnhcpprn\\lnz",
+                                            files: [
+                                                (
+                                                    "lqmrbncv.jlc",
+                                                    131441,
+                                                ),
+                                            ],
+                                            size: 131441,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\zssntdj\\pnhcpprn\\hmz",
+                                            files: [
+                                                (
+                                                    "vwrmp.rzc",
+                                                    13943,
+                                                ),
+                                            ],
+                                            size: 13943,
+                                            directories: [],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zssntdj\\bgst",
+                                    files: [
+                                        (
+                                            "lqmrbncv",
+                                            184029,
+                                        ),
+                                        (
+                                            "tntvjzd.cjr",
+                                            167501,
+                                        ),
+                                    ],
+                                    size: 351530,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\zps",
+                            files: [
+                                (
+                                    "lqmrbncv.llw",
+                                    178180,
+                                ),
+                                (
+                                    "rpp.crf",
+                                    202379,
+                                ),
+                                (
+                                    "vvlgrl.wtd",
+                                    208722,
+                                ),
+                                (
+                                    "vwrmp.rzc",
+                                    257512,
+                                ),
+                            ],
+                            size: 1281493,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\tbcz\\zps\\wgvhd",
+                                    files: [
+                                        (
+                                            "rwtmqzv.crt",
+                                            222879,
+                                        ),
+                                    ],
+                                    size: 222879,
+                                    directories: [],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\zps\\zlw",
+                                    files: [
+                                        (
+                                            "tgq.drp",
+                                            211821,
+                                        ),
+                                    ],
+                                    size: 211821,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\zlw",
+                            files: [
+                                (
+                                    "pcqhzfh.gwv",
+                                    282587,
+                                ),
+                            ],
+                            size: 282587,
+                            directories: [],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\dwpc",
+                            files: [
+                                (
+                                    "jmjtjrnt.zsb",
+                                    225827,
+                                ),
+                                (
+                                    "zphv.mwp",
+                                    30125,
+                                ),
+                            ],
+                            size: 255952,
+                            directories: [],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\gdhpqjd",
+                            files: [],
+                            size: 167746,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\tbcz\\gdhpqjd\\lqmrbncv",
+                                    files: [
+                                        (
+                                            "nwhbvps",
+                                            167746,
+                                        ),
+                                    ],
+                                    size: 167746,
+                                    directories: [],
+                                },
+                            ],
+                        },
+                        Directory {
+                            path: "psqmv\\tbcz\\lwmjgnh",
+                            files: [
+                                (
+                                    "bwdlz.sjf",
+                                    190409,
+                                ),
+                                (
+                                    "zjvgm.tqb",
+                                    51030,
+                                ),
+                            ],
+                            size: 15124476,
+                            directories: [
+                                Directory {
+                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw",
+                                    files: [
+                                        (
+                                            "lqmrbncv.wrt",
+                                            251370,
+                                        ),
+                                        (
+                                            "rrqzqwl.frp",
+                                            67326,
+                                        ),
+                                    ],
+                                    size: 5616207,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\dnmrqs",
+                                            files: [
+                                                (
+                                                    "pvhjcsrw.plw",
+                                                    259873,
+                                                ),
+                                                (
+                                                    "rjstdm.hjb",
+                                                    149720,
+                                                ),
+                                                (
+                                                    "zphv.mwp",
+                                                    180904,
+                                                ),
+                                            ],
+                                            size: 998138,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\dnmrqs\\trblfgd",
+                                                    files: [
+                                                        (
+                                                            "dgjbwqw.jwh",
+                                                            143069,
+                                                        ),
+                                                        (
+                                                            "gsmdbsp.sjz",
+                                                            264572,
+                                                        ),
+                                                    ],
+                                                    size: 407641,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\tbnj",
+                                            files: [
+                                                (
+                                                    "svhfd",
+                                                    27280,
+                                                ),
+                                                (
+                                                    "vwrmp.rzc",
+                                                    186526,
+                                                ),
+                                            ],
+                                            size: 213806,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\fjq",
+                                            files: [
+                                                (
+                                                    "wcvdfwrq.wnp",
+                                                    243915,
+                                                ),
+                                            ],
+                                            size: 297991,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\fjq\\rdjngdcz",
+                                                    files: [],
+                                                    size: 54076,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\fjq\\rdjngdcz\\wdblhmf",
+                                                            files: [
+                                                                (
+                                                                    "ctnqhqw.zmb",
+                                                                    54076,
+                                                                ),
+                                                            ],
+                                                            size: 54076,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\nrmzvg",
+                                            files: [
+                                                (
+                                                    "bmfjwnnp",
+                                                    294196,
+                                                ),
+                                                (
+                                                    "pcqhzfh.gwv",
+                                                    101511,
+                                                ),
+                                                (
+                                                    "zphv.mwp",
+                                                    35978,
+                                                ),
+                                                (
+                                                    "zzp.drz",
+                                                    129984,
+                                                ),
+                                            ],
+                                            size: 561669,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn",
+                                            files: [
+                                                (
+                                                    "rrqzqwl.frp",
+                                                    135796,
+                                                ),
+                                            ],
+                                            size: 3225907,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd",
+                                                    files: [
+                                                        (
+                                                            "ldjvm.lbh",
+                                                            234589,
+                                                        ),
+                                                        (
+                                                            "pcqhzfh.gwv",
+                                                            290105,
+                                                        ),
+                                                        (
+                                                            "qblpgd.wwh",
+                                                            181679,
+                                                        ),
+                                                        (
+                                                            "vwrmp.rzc",
+                                                            45384,
+                                                        ),
+                                                    ],
+                                                    size: 2633128,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\pnhcpprn",
+                                                            files: [
+                                                                (
+                                                                    "pnhcpprn.rvr",
+                                                                    86162,
+                                                                ),
+                                                            ],
+                                                            size: 86162,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\zzp",
+                                                            files: [
+                                                                (
+                                                                    "dcg",
+                                                                    251390,
+                                                                ),
+                                                                (
+                                                                    "pcqhzfh.gwv",
+                                                                    163193,
+                                                                ),
+                                                                (
+                                                                    "tdd.gdm",
+                                                                    241952,
+                                                                ),
+                                                                (
+                                                                    "zlw.zjw",
+                                                                    72331,
+                                                                ),
+                                                                (
+                                                                    "zzp.pdv",
+                                                                    128370,
+                                                                ),
+                                                            ],
+                                                            size: 1285488,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\zzp\\zdwplgb",
+                                                                    files: [
+                                                                        (
+                                                                            "zlw",
+                                                                            42204,
+                                                                        ),
+                                                                    ],
+                                                                    size: 42204,
+                                                                    directories: [],
+                                                                },
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\zzp\\hmz",
+                                                                    files: [
+                                                                        (
+                                                                            "ndncntz.dpf",
+                                                                            196959,
+                                                                        ),
+                                                                        (
+                                                                            "zzp.pff",
+                                                                            189089,
+                                                                        ),
+                                                                    ],
+                                                                    size: 386048,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\sjnqdjzd",
+                                                            files: [
+                                                                (
+                                                                    "hhpddvl",
+                                                                    219465,
+                                                                ),
+                                                            ],
+                                                            size: 219465,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\nvmstd\\bzjbbjr",
+                                                            files: [
+                                                                (
+                                                                    "zlw.qfj",
+                                                                    290256,
+                                                                ),
+                                                            ],
+                                                            size: 290256,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\hgvsvqtl",
+                                                    files: [
+                                                        (
+                                                            "mzrqwfl",
+                                                            159657,
+                                                        ),
+                                                        (
+                                                            "pnhcpprn.nwb",
+                                                            102064,
+                                                        ),
+                                                    ],
+                                                    size: 456983,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\hgvsvqtl\\zlw",
+                                                            files: [
+                                                                (
+                                                                    "smrwnbm.rrl",
+                                                                    130115,
+                                                                ),
+                                                            ],
+                                                            size: 130115,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\zbprw\\pnhcpprn\\hgvsvqtl\\pnhcpprn",
+                                                            files: [
+                                                                (
+                                                                    "vwrmp.rzc",
+                                                                    65147,
+                                                                ),
+                                                            ],
+                                                            size: 65147,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm",
+                                    files: [],
+                                    size: 1988714,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\fhtzf",
+                                            files: [],
+                                            size: 453757,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\fhtzf\\hmz",
+                                                    files: [
+                                                        (
+                                                            "fbbpbpdm.rrn",
+                                                            194260,
+                                                        ),
+                                                        (
+                                                            "pcqhzfh.gwv",
+                                                            259497,
+                                                        ),
+                                                    ],
+                                                    size: 453757,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp",
+                                            files: [
+                                                (
+                                                    "zzp.zvb",
+                                                    222531,
+                                                ),
+                                            ],
+                                            size: 1534957,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\hmz",
+                                                    files: [
+                                                        (
+                                                            "trzfnvc",
+                                                            250664,
+                                                        ),
+                                                    ],
+                                                    size: 1159293,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\hmz\\vmj",
+                                                            files: [
+                                                                (
+                                                                    "thf.jhp",
+                                                                    94772,
+                                                                ),
+                                                            ],
+                                                            size: 94772,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\hmz\\ljg",
+                                                            files: [
+                                                                (
+                                                                    "bnwg.spg",
+                                                                    262125,
+                                                                ),
+                                                            ],
+                                                            size: 521135,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\hmz\\ljg\\nrqs",
+                                                                    files: [
+                                                                        (
+                                                                            "gmvnbthn.shd",
+                                                                            259010,
+                                                                        ),
+                                                                    ],
+                                                                    size: 259010,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\hmz\\tpnpp",
+                                                            files: [
+                                                                (
+                                                                    "wqljsz.zzj",
+                                                                    292722,
+                                                                ),
+                                                            ],
+                                                            size: 292722,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\jbrcnsm\\zzp\\dmqjmgsp",
+                                                    files: [
+                                                        (
+                                                            "mdgrqss",
+                                                            118387,
+                                                        ),
+                                                        (
+                                                            "zphv.mwp",
+                                                            34746,
+                                                        ),
+                                                    ],
+                                                    size: 153133,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                    ],
+                                },
+                                Directory {
+                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn",
+                                    files: [
+                                        (
+                                            "gsmdbsp.sjz",
+                                            145794,
+                                        ),
+                                        (
+                                            "nqdjpgpm.zmd",
+                                            30226,
+                                        ),
+                                        (
+                                            "wjzlh.mbz",
+                                            272593,
+                                        ),
+                                    ],
+                                    size: 7278116,
+                                    directories: [
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\qtc",
+                                            files: [
+                                                (
+                                                    "rrqzqwl.frp",
+                                                    201719,
+                                                ),
+                                            ],
+                                            size: 1992424,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\qtc\\lqmrbncv",
+                                                    files: [
+                                                        (
+                                                            "gsmdbsp.sjz",
+                                                            61437,
+                                                        ),
+                                                        (
+                                                            "mqjzq.fvd",
+                                                            129583,
+                                                        ),
+                                                        (
+                                                            "rrqzqwl.frp",
+                                                            232347,
+                                                        ),
+                                                        (
+                                                            "tjd.hfr",
+                                                            121479,
+                                                        ),
+                                                        (
+                                                            "zphv.mwp",
+                                                            247144,
+                                                        ),
+                                                    ],
+                                                    size: 1467957,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\qtc\\lqmrbncv\\hmz",
+                                                            files: [
+                                                                (
+                                                                    "ggb.gmm",
+                                                                    118154,
+                                                                ),
+                                                            ],
+                                                            size: 118154,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\qtc\\lqmrbncv\\bzlvtw",
+                                                            files: [
+                                                                (
+                                                                    "gscrll.ttf",
+                                                                    256488,
+                                                                ),
+                                                                (
+                                                                    "gsmdbsp.sjz",
+                                                                    301325,
+                                                                ),
+                                                            ],
+                                                            size: 557813,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\qtc\\cndr",
+                                                    files: [
+                                                        (
+                                                            "hmz.rqz",
+                                                            218298,
+                                                        ),
+                                                        (
+                                                            "mzqtrz.jsb",
+                                                            104450,
+                                                        ),
+                                                    ],
+                                                    size: 322748,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\tcmp",
+                                            files: [
+                                                (
+                                                    "zzp.sgm",
+                                                    259550,
+                                                ),
+                                            ],
+                                            size: 715083,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\tcmp\\ghnv",
+                                                    files: [
+                                                        (
+                                                            "rrqzqwl.frp",
+                                                            42931,
+                                                        ),
+                                                        (
+                                                            "zzp",
+                                                            168344,
+                                                        ),
+                                                    ],
+                                                    size: 211275,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\tcmp\\czm",
+                                                    files: [],
+                                                    size: 244258,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\tcmp\\czm\\jzbn",
+                                                            files: [],
+                                                            size: 244258,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\tcmp\\czm\\jzbn\\mzmf",
+                                                                    files: [
+                                                                        (
+                                                                            "zzp",
+                                                                            244258,
+                                                                        ),
+                                                                    ],
+                                                                    size: 244258,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\snwrdp",
+                                            files: [
+                                                (
+                                                    "rrqzqwl.frp",
+                                                    46060,
+                                                ),
+                                                (
+                                                    "vwrmp.rzc",
+                                                    245119,
+                                                ),
+                                                (
+                                                    "zlw",
+                                                    171585,
+                                                ),
+                                                (
+                                                    "zzp",
+                                                    185512,
+                                                ),
+                                            ],
+                                            size: 918146,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\snwrdp\\hmz",
+                                                    files: [
+                                                        (
+                                                            "lmhzqqw",
+                                                            51192,
+                                                        ),
+                                                    ],
+                                                    size: 51192,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\snwrdp\\lqmrbncv",
+                                                    files: [],
+                                                    size: 218678,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\snwrdp\\lqmrbncv\\cwz",
+                                                            files: [
+                                                                (
+                                                                    "lfsthrnb.vcm",
+                                                                    218678,
+                                                                ),
+                                                            ],
+                                                            size: 218678,
+                                                            directories: [],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\mzwcp",
+                                            files: [
+                                                (
+                                                    "lqmrbncv",
+                                                    271460,
+                                                ),
+                                                (
+                                                    "zphv.mwp",
+                                                    256282,
+                                                ),
+                                            ],
+                                            size: 527742,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\zzp",
+                                            files: [],
+                                            size: 283037,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\zzp\\bgmrjcr",
+                                                    files: [
+                                                        (
+                                                            "gsmdbsp.sjz",
+                                                            278740,
+                                                        ),
+                                                    ],
+                                                    size: 278740,
+                                                    directories: [],
+                                                },
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\zzp\\prdswch",
+                                                    files: [
+                                                        (
+                                                            "pnhcpprn.bmn",
+                                                            4297,
+                                                        ),
+                                                    ],
+                                                    size: 4297,
+                                                    directories: [],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp",
+                                            files: [
+                                                (
+                                                    "jmbh.csg",
+                                                    137453,
+                                                ),
+                                                (
+                                                    "ppbgtcr.rrl",
+                                                    9818,
+                                                ),
+                                            ],
+                                            size: 1680002,
+                                            directories: [
+                                                Directory {
+                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw",
+                                                    files: [
+                                                        (
+                                                            "pgwdrp.lnd",
+                                                            232130,
+                                                        ),
+                                                    ],
+                                                    size: 1532731,
+                                                    directories: [
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\rgvscq",
+                                                            files: [
+                                                                (
+                                                                    "gsmdbsp.sjz",
+                                                                    107168,
+                                                                ),
+                                                                (
+                                                                    "pnhcpprn.lrt",
+                                                                    261303,
+                                                                ),
+                                                            ],
+                                                            size: 368471,
+                                                            directories: [],
+                                                        },
+                                                        Directory {
+                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\zrns",
+                                                            files: [
+                                                                (
+                                                                    "jcsnz",
+                                                                    156386,
+                                                                ),
+                                                                (
+                                                                    "zphv.mwp",
+                                                                    106788,
+                                                                ),
+                                                            ],
+                                                            size: 932130,
+                                                            directories: [
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\zrns\\schnzjrv",
+                                                                    files: [],
+                                                                    size: 103262,
+                                                                    directories: [
+                                                                        Directory {
+                                                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\zrns\\schnzjrv\\zfhmw",
+                                                                            files: [],
+                                                                            size: 103262,
+                                                                            directories: [
+                                                                                Directory {
+                                                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\zrns\\schnzjrv\\zfhmw\\dfd",
+                                                                                    files: [
+                                                                                        (
+                                                                                            "rvqtmdb",
+                                                                                            103262,
+                                                                                        ),
+                                                                                    ],
+                                                                                    size: 103262,
+                                                                                    directories: [],
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    ],
+                                                                },
+                                                                Directory {
+                                                                    path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\pvmbp\\zlw\\zrns\\zhfqhlvh",
+                                                                    files: [
+                                                                        (
+                                                                            "pnhcpprn.vzc",
+                                                                            267785,
+                                                                        ),
+                                                                        (
+                                                                            "zlw",
+                                                                            297909,
+                                                                        ),
+                                                                    ],
+                                                                    size: 565694,
+                                                                    directories: [],
+                                                                },
+                                                            ],
+                                                        },
+                                                    ],
+                                                },
+                                            ],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\gtlvqfwv",
+                                            files: [
+                                                (
+                                                    "fzg.tvc",
+                                                    21710,
+                                                ),
+                                                (
+                                                    "vwrmp.rzc",
+                                                    25429,
+                                                ),
+                                            ],
+                                            size: 47139,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\zjhcdbg",
+                                            files: [
+                                                (
+                                                    "fwz.mjb",
+                                                    301695,
+                                                ),
+                                                (
+                                                    "nfhnb",
+                                                    72201,
+                                                ),
+                                                (
+                                                    "prpwjp",
+                                                    33600,
+                                                ),
+                                            ],
+                                            size: 407496,
+                                            directories: [],
+                                        },
+                                        Directory {
+                                            path: "psqmv\\tbcz\\lwmjgnh\\pnhcpprn\\bvdhw",
+                                            files: [
+                                                (
+                                                    "zzp.jbp",
+                                                    258434,
+                                                ),
+                                            ],
+                                            size: 258434,
+                                            directories: [],
+                                        },
+                                    ],
+                                },
+                            ],
+                        },
+                    ],
+                },
+            ],
+        },
+    ],
+}
