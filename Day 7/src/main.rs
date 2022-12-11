@@ -39,13 +39,8 @@ fn build_directory<'a>(
 }
 
 fn solution(root: &Directory) -> usize {
-    let mut total = if root.size <= 100_000 { root.size } else { 0 };
-
-    for folder in root.directories.iter() {
-        total += solution(folder);
-    }
-
-    total
+    let total = if root.size <= 100_000 { root.size } else { 0 };
+    root.directories.iter().fold(total, |acc, f| acc + solution(f))
 }
 
 fn main() {
@@ -82,6 +77,5 @@ fn main() {
     let root = Path::new("");
     let tree = build_directory(root, &flat_file_system);
 
-    let total = solution(&tree);
-    println!("{total}");
+    println!("{}", solution(&tree));
 }
