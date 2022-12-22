@@ -58,10 +58,15 @@ impl<const R: usize, const C: usize> Forest<R, C> {
 }
 
 unsafe fn parse_forest<const R: usize, const C: usize>(input: &str) -> Forest<R, C> {
-    let mut buffer = MaybeUninit::<[[u32; R]; C]>::uninit();
+    let mut buffer = MaybeUninit::<[[u32; R]; C]>::zeroed();
 
-    for (raw, row)  in buffer.assume_init_mut().iter_mut().zip(input.lines()) {
-        *raw = row.chars().map(|f| f.to_digit(10).unwrap_unchecked()).collect::<Vec<u32>>().try_into().unwrap();
+    for (raw, row) in buffer.assume_init_mut().iter_mut().zip(input.lines()) {
+        *raw = row
+            .chars()
+            .map(|f| f.to_digit(10).unwrap_unchecked())
+            .collect::<Vec<u32>>()
+            .try_into()
+            .unwrap();
     }
 
     Forest(buffer.assume_init())
@@ -80,13 +85,18 @@ impl<const R: usize, const C: usize> Iterator for Trees<'_, R, C> {
 fn main() {
     let forest: Forest<99, 99> = unsafe { parse_forest(INPUT) };
 
-    let total = forest.trees().filter(|tree| {
-        let tallest = tree.position.surroundings().iter().any(|neighbours| {
-            neighbours.iter().all(|p| tree.height > forest.get(p))
-        });
-        
-        tree.position.on_edge() || tallest
-    }).count();
- 
+    let total = forest
+        .trees()
+        .filter(|tree| {
+            let tallest = tree
+                .position
+                .surroundings()
+                .iter()
+                .any(|neighbours| neighbours.iter().all(|p| tree.height > forest.get(p)));
+
+            tree.position.on_edge() || tallest
+        })
+        .count();
+
     println!("Tallest: {total}")
-}   
+}
